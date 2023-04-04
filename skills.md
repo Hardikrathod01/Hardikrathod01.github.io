@@ -3,10 +3,11 @@ layout: default
 title: Skills & Hobbys
 ---
 |**Programming languages**|
-| Java, Python | Advanced |
+| Java | Advanced |
 | GitLab CI/CD, Jenkins | Advanced |
 | Docker, SonarQube | Advanced |
 | SAHI | Advanced |
+| Python | Intermediate |
 | Jira | Intermediate |
 | PostgreSQL, MySQL | Intermediate |
 | Kubernetes, AWS, C/C++ | Basic |
